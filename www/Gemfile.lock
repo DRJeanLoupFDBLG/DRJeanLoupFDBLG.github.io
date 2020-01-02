@@ -244,6 +244,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  faraday
   github-pages (~> 203)
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
