@@ -1,6 +1,6 @@
 layout: page
 title: "Welcome"
-permalink: /
+permalink: /intro/
 
 # Welcome to my github repository
 
